@@ -19,3 +19,5 @@ Then for add this dependency:
     <version>1.0.0</version>
 </dependency>
 ```
+
+[![](https://jitpack.io/v/Startups-Land/zarinpal-spring-boot.svg)](https://jitpack.io/#Startups-Land/zarinpal-spring-boot)
