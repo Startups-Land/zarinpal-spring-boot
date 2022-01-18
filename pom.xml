@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.startupsland</groupId>
 	<artifactId>zarinpal-spring-boot</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0-beta</version>
 	<name>zarinpal-spring-boot</name>
 	<description>zarinpal</description>
 	<properties>
