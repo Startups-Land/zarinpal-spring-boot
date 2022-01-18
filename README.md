@@ -16,6 +16,6 @@ Then for add this dependency:
 <dependency>
     <groupId>com.github.startups-land</groupId>
     <artifactId>zarinpal-spring-boot</artifactId>
-    <version>1.0.0-beta</version>
+    <version>1.0.0</version>
 </dependency>
 ```
